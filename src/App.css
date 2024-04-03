@@ -56,3 +56,39 @@
 p {
   margin-bottom: 0 !important;
 }
+
+.nav {
+  display: flex;
+  color: aliceblue;
+  align-items: center;
+  margin: 0px 20px;
+}
+
+.card {
+  border: 2px solid #e3e3e3;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.justify-end {
+  justify-content: end;
+}
+
+.bg-gray {
+  background-color: #303439;
+  min-height: 100vh;
+}
+
+.bg-white-alpha {
+  background-color: rgb(255, 255, 255, 0.09) !important;
+  color: white !important;
+}
+
+.market {
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
+  color: white;
+}
